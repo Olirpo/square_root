@@ -8,5 +8,6 @@ def brute_force(goal):
     else:
         print(f'I couldnt find the root')
 
-def aproximation:
+def aproximation(goal, epsilon):
+    respuesta = epsilon**2
     
